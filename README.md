@@ -1,3 +1,7 @@
+# Description
+
+An application to calculate the debts collected by different clients of an organization. The whole application was developed and designed in Angular 5 with a real-time database stored in FireBase Cloud. 
+
 # Clientpanel
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
